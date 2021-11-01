@@ -1,2 +1,3 @@
 # VoidReleases
-New Releases
+**VOID RELEASED**
+# voidicon.png
